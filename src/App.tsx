@@ -6,19 +6,19 @@ function App() {
     {
       title: "Business Intelligence Dashboard",
       icon: <LineChart className="w-16 h-16 mb-6 text-blue-600" />,
-      url: "https://www.google.com",
+      url: "https://garuda-dashboards.netlify.app/",
       description: "Comprehensive business analytics and reporting dashboard"
     },
     {
       title: "Predictive Analytics for Growth",
       icon: <TrendingUp className="w-16 h-16 mb-6 text-green-600" />,
-      url: "https://garuda-analysis.netlify.app/",
+      url: "https://garuda-analytics.netlify.app/",
       description: "Data-driven insights for future business growth"
     },
     {
       title: "AI-Driven Decision Support",
       icon: <Brain className="w-16 h-16 mb-6 text-purple-600" />,
-      url: "https://www.instagram.com",
+      url: "https://garuda-management.netlify.app/",
       description: "Intelligent decision-making assistance powered by AI"
     },
     {
